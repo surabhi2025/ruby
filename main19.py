@@ -1,4 +1,4 @@
-grade = int(input("Enter your grade:"))
+grade = float(input("Enter your grade:"))
 if (grade > 90):
     print("You get a A")
 elif (grade > 80):
